@@ -5,7 +5,7 @@ while loop facilitated recursive input prompting user specification to:
 2) edit an element with keywords
 
 The node full stack UI can prompt the USER for command. and puppeteer.launch && puppeteer.evaluate() 
-create leverage methods such as document.querySelector("#id") to target elements of another project.
+create leverageable methods such as document.querySelector("#id") to target elements of another project.
 
 hopefully:
 [      ] [       ]
